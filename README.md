@@ -9,4 +9,5 @@
 # 4.Run the runme.sh and you may should run the export commands by yourself, although we add those into the runme.sh, it always can not run by the runme.sh.
 # 5.Now use the cellphone bluetooth function to connect the Gumstix which named player1 and run andriod app to connect the Gumstix(just run the app).
 # 6.If you see the information that cellphone is connecting to the Gumstix then run command "./ktimer &".
-# 7.Finally run the command "./Tetris -qws" and enjoy the game.
+# 7.Finally run the command "./Tetris -qws" 
+# 8.enjoy the game.
